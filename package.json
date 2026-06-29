@@ -1,0 +1,25 @@
+{
+  "name": "ddd",
+  "version": "1.0.0",
+  "description": "Como relacionar os problemas da vida real ao softwere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielLaino/DDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gabrielLaino/DDD/issues"
+  },
+  "homepage": "https://github.com/gabrielLaino/DDD#readme",
+  "devDependencies": {
+    "@types/node": "^26.0.1",
+    "typescript": "^6.0.3"
+  }
+}
