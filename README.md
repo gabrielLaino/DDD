@@ -1,5 +1,7 @@
 # DDD (Domain-driven Design)
 
+Como relacionar os problemas da vida real ao softwere
+
 ## Domain 
 
 - Domain Experts:
