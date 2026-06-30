@@ -1,5 +1,5 @@
 import { expect, test } from 'vitest';
-import { AnswerQuestionUseCase } from '../../../src/domain/use-cases/answer-question.js';
+import { AnswerQuestionUseCase } from '@/domain/use-cases/answer-question';
 
 test("create an answer", () => {
   const answerQuestion = new AnswerQuestionUseCase()

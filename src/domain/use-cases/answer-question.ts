@@ -1,4 +1,4 @@
-import { Answer } from "../entities/answer.js";
+import { Answer } from "../entities/answer";
 
 interface AnswerQuestionUseCaseRequest {
   instructorId: string;
