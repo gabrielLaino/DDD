@@ -4,7 +4,8 @@
   "description": "Como relacionar os problemas da vida real ao softwere",
   "main": "index.js",
   "scripts": {
-    "test": "npx vitest"
+    "test": "npx vitest run",
+    "test:watch": "npx vitest"
   },
   "repository": {
     "type": "git",
