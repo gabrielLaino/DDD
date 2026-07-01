@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "npx vitest run",
-    "test:watch": "npx vitest"
+    "test:watch": "npx vitest",
+    "test:verbose": "npx vitest run --reporter=verbose"
   },
   "repository": {
     "type": "git",

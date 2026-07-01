@@ -4,8 +4,6 @@ Como relacionar os problemas da vida real ao softwere
 
 ## Domain 
 
-## Domain
-
 Em DDD, o **Domain** é a área de negócio que o software precisa representar e resolver. Ele envolve as regras, processos, pessoas, termos e problemas reais daquele contexto.
 
 Antes de pensar em banco de dados, telas ou frameworks, é importante entender como o negócio funciona na prática.
