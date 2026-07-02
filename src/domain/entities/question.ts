@@ -8,11 +8,4 @@ interface QuestionProps {
   sub: Slug,
 }
 
-export class Question extends Entity<QuestionProps> {
-  constructor(
-    props: QuestionProps,
-    id?: string,
-  ) {
-    super(props, id);
-  }
-} 
+export class Question extends Entity<QuestionProps> {}
